@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"X-Generator: xgotext\n"
+
+#: section.go:84
+msgid ", required"
+msgstr ""
+
+#: section.go:96
+msgid "Atomic: will be replaced during a merge"
+msgstr ""
+
+#: section.go:101
+msgid "Map: unique values on key %s will be kept during a merge"
+msgstr ""
+
+#: section.go:103
+msgid "Map: unique values on keys `%s` will be kept during a merge"
+msgstr ""
+
+#: section.go:113
+msgid "Patch strategies: retainKeys, merge on key `%s`"
+msgstr ""
+
+#: section.go:115
+msgid "Patch strategy: merge on key `%s`"
+msgstr ""
+
+#: section.go:117
+msgid "Patch strategy: retainKeys"
+msgstr ""
+
+#: section.go:98
+msgid "Set: unique values will be kept during a merge"
+msgstr ""
